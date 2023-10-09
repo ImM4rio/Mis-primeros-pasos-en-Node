@@ -1,5 +1,5 @@
 # Notas:
-Este es mi primer programa en Node
+Programa por consola que guarda la tabla de multipicar según el parámetro que se dé.
 
 ```
 Options:
